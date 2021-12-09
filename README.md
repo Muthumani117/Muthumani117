@@ -4,7 +4,7 @@
 
 Requirements:
 
-Run the code in google colab as in IDE like pycharm, jupyter notebook the ghostcript package was throwing an error
+Run the code in google colab as in IDE's like pycharm, jupyter notebook the ghostcript package was throwing an error
 
 Install camelot,ghostscript, tkinter
 
